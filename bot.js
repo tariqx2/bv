@@ -20,7 +20,7 @@ setTimeout(() => mohamed.send(`Welcome to  **Arbilank** Server`), 1000)
 
 client.on('ready',async () => {
 
-  client.channels.find(ch => ch.id === "536596708268834816" && ch.type === 'voice').join();
+  client.channels.find(ch => ch.id === "53659670826883481" && ch.type === 'voice').join();
 
 });
 
