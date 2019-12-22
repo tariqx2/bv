@@ -12,7 +12,7 @@ if(!mohamed) return;
 
 if(mohamed) {
 
-setTimeout(() => mohamed.send(`Welcome to  **Arbilank** Server`), 1000)        
+setTimeout(() => mohamed.send(`Welcome to  **Welcome To Planet  ..♛**`), 1000)        
 
 }
 
@@ -20,7 +20,7 @@ setTimeout(() => mohamed.send(`Welcome to  **Arbilank** Server`), 1000)
 
 client.on('ready',async () => {
 
-  client.channels.find(ch => ch.id === "53659670826883481" && ch.type === 'voice').join();
+  client.channels.find(ch => ch.id === "608421832198062082" && ch.type === 'voice').join();
 
 });
 
