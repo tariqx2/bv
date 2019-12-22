@@ -12,7 +12,7 @@ if(!mohamed) return;
 
 if(mohamed) {
 
-setTimeout(() => mohamed.send(`Welcome to  **Welcome To Planet  ..♛**`), 1000)        
+setTimeout(() => mohamed.send(`Welcome to  **Welcome To Planet..♛**`), 1000)        
 
 }
 
