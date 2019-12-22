@@ -6,7 +6,7 @@ const Discord = require('discord.js'),
 
 client.on('guildMemberAdd', member => {
 
-const mohamed= member.guild.channels.get("532228348278079489");
+const mohamed= member.guild.channels.get("640104334352318474");
 
 if(!mohamed) return;
 
